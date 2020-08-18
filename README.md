@@ -1,4 +1,4 @@
-#SunSign-Horoscope
+# SunSign-Horoscope
 
 Created a horoscope app where the user can enter their birthday and get their horoscope. There are 12 unique horoscope signs which include their respective image and a description of the charater traits of the the sign.
 
@@ -6,14 +6,14 @@ Created a horoscope app where the user can enter their birthday and get their ho
 
 ![GitHub Logo](/img/logotest.png)
 
-##How It's Made:
+## How It's Made:
 **Tech used:** HTML, CSS, and JavaScript
 
 
 
-##Optimizations
+## Optimizations
 (optional)
 
 
 
-##Lessons Learned:
+## Lessons Learned:
