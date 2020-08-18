@@ -1,0 +1,19 @@
+.galaxy{
+  background-image: url(../img/afroplanet.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+select{
+  border-radius: 60%;
+}
+#myImg{
+  border-radius: 15%;
+}
+h1{
+  margin-top: 15%;
+}
